@@ -1,0 +1,4 @@
+name: NoChat
+version: '${project.version}'
+main: org.windguest.nochat.NoChat
+api-version: '1.20'
